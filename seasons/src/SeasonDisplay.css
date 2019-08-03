@@ -1,33 +1,33 @@
 .icon-left {
-    position: absolute;
-    top:10px;
-    left: 10px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
 }
 
 .icon-right {
-    position: absolute;
-    bottom:10px;
-    right:10px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
 }
 
-.season-diaplay.winter i{
-    color: blue;
+.season-diaplay.winter i {
+  color: blue;
 }
 
-.season-diaplay.summer i{
-    color:red
+.season-diaplay.summer i {
+  color: red;
 }
 
 .season-diaplay {
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .winter {
-    background-color: aliceblue;
+  background-color: aliceblue;
 }
-.summer{
-    background-color: orange;
+.summer {
+  background-color: orange;
 }
